@@ -12,5 +12,5 @@ def mult(a, b):
 def div(a, b):
     return(a / b)
 
-def rad(a, b)
+def pow(a, b):
     return pow(a, b)
