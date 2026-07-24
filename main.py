@@ -1,3 +1,5 @@
+import math
+
 def soma(a, b):
     return(a + b)
 
@@ -9,3 +11,6 @@ def mult(a, b):
 
 def div(a, b):
     return(a / b)
+
+def rad(a, b)
+    return pow(a, b)
